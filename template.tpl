@@ -150,6 +150,11 @@ var scriptUrl = 'https://unpkg.com/@convergeapp/chat-widget/dist/widget.js';
 
 injectScript(scriptUrl, data.gtmOnSuccess, data.gtmOnFailure, 'convergeWidget');
 
+___TESTS___
+
+scenarios: []
+
+
 ___NOTES___
 
 Converge Chat Widget - Google Tag Manager Template
