@@ -1,5 +1,5 @@
 homepage: "https://useconverge.app"
 documentation: "https://useconverge.app/docs/integrations/google-tag-manager"
 versions:
-  - sha: REPLACE_WITH_COMMIT_SHA
+  - sha: 4c0a3426779c2bd1fb769ac2636d97e1fa328da0
     changeNotes: Initial release of Converge Chat Widget GTM template.

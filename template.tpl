@@ -16,7 +16,7 @@ ___INFO___
   "type": "TAG",
   "version": 1,
   "brand": {
-    "thumbnail": "https://raw.githubusercontent.com/justvibesfyi/gtm-converge-chat-widget/main/icon.png",
+    "thumbnail": "https://raw.githubusercontent.com/justvibesfyi/gtm-converge-chat-widget/master/icon.png",
     "displayName": "Converge",
     "id": "brand_dummy"
   },
